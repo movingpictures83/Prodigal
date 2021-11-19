@@ -1,0 +1,2 @@
+Prefix plugins/Prodigal/example
+Plugin Prodigal inputfile PA14.fasta outputfile PA14.prodigal.out
